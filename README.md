@@ -7,4 +7,4 @@ These projects were completed for Practicum's Data Scientist professional traini
 
 | Nombre del proyecto | Descripción | Librerías usadas| 
 | :---------------------- | :---------------------- | :---------------------- |
-| [Beta Bank](Beta Bank) | Desarrollar un modelo que pueda analizar el comportamiento de los clientes y prediga si tiene planes de dejar el banco Beta Bank pronto. | *pandas*, *matplotlib.pyplot*, *sklearn.utils*, *sklearn.model_selection*, *sklearn.preprocessing*, *sklearn.tree*, *sklearn.metrics*, *sklearn.linear_model*, *sklearn.metrics*, *sklearn.ensemble*, *sklearn.metrics*, *seaborn*, *numpy* |
+| [Beta Bank] | Desarrollar un modelo que pueda analizar el comportamiento de los clientes y prediga si tiene planes de dejar el banco Beta Bank pronto. | *pandas*, *matplotlib.pyplot*, *sklearn.utils*, *sklearn.model_selection*, *sklearn.preprocessing*, *sklearn.tree*, *sklearn.metrics*, *sklearn.linear_model*, *sklearn.metrics*, *sklearn.ensemble*, *sklearn.metrics*, *seaborn*, *numpy* |
