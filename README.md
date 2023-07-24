@@ -1,4 +1,4 @@
-# Beta-Bank-Customers-don-t-leave
+# Beta Bank-Comportamiento de clientes
 
 La finalidad del proyecto fue desarrollar un modelo que pueda analizar el comportamiento de los clientes y prediga si tiene planes de dejar el banco Beta Bank pronto.
 
